@@ -1,10 +1,13 @@
-Various financial, political, and salary analyses created with data visualization and storytelling methods.
+📊 Data Storytelling & Visual Analytics Portfolio
+A collection of high-impact analyses focused on socio-economic trends, public policy, and global health data.
 
-    -Story 1: Analyzed whether federal funding to different States is based on political party affiliation.
-                Data sources: 1) https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
-                              2) https://www.cnn.com/election/2020/results/president
-                              
-    -Story 2: Analysis on whether the Federal Government is able to maintain a balance on inflation and unemployment rate through interest rate control.
+📌 Featured Case Studies
+
+    -Case 1: Political Science & Funding
+            Objective: Analyzed whether federal funding to different States is based on political party affiliation.         
+    💰 Economic & Labor Market Intelligence
+     -Case 2: 
+     Analysis on whether the Federal Government is able to maintain a balance on inflation and unemployment rate through interest rate control.
                 Data source: https://www.bls.gov/cpi/
                 
     -Story 3: Analyzed whether firearm mortality can be controlled by stricter gun laws by examining the data in all States.
