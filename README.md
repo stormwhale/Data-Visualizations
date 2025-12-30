@@ -3,26 +3,24 @@ A collection of high-impact analyses focused on socio-economic trends, public po
 
 📌 Featured Case Studies
 
-    -Case 1: Political Science & Funding
-            Objective: Analyzed whether federal funding to different States is based on political party affiliation.         
+    Political Science & Funding:
+        -Case 1: Analyzed whether federal funding to different States is based on political party affiliation.
+                 Tools/Graphs: Matplotlib / Seaborn for correlation plot and bar plots.
+        
     💰 Economic & Labor Market Intelligence
-     -Case 2: 
-     Analysis on whether the Federal Government is able to maintain a balance on inflation and unemployment rate through interest rate control.
-                Data source: https://www.bls.gov/cpi/
+         -Case 2: Analysis on whether the Federal Government is able to maintain a balance on inflation and unemployment rate through interest rate control.
+         -Case 4: Analyzed potential factors that affect the salary for the Data Science field.
+                  Tools/Graphs: Matplotlib / Seaborn /Plotly.express for box plot and line plots
+
+    🧬 Healthcare & Public Safety
+         -Case 3: Analyzed whether firearm mortality can be controlled by stricter gun laws by examining the data in all States. Data soruce from CDC.
+         -Case 6: Analysis on the issue of food insecurity in the U.S. Who are the vulnerable groups? 
+                  Tools/Graphs: Heatmap, bar plots, and chlopeth maps.
                 
-    -Story 3: Analyzed whether firearm mortality can be controlled by stricter gun laws by examining the data in all States.
-                Data source: 1) https://www.sightmark.com/blogs/news/states-ranked-by-how-strict-their-gun-laws-are?srsltid=AfmBOorw0_lrOckZkxpQII3g4dlJFwRltT0wIrygN2f4-mHymXiA-Qjd
-                             2) https://www.cdc.gov/nchs/state-stats/deaths/firearms.html
-                             
-    -Story 4: Analyzed potential factors that affect the salary for the Data Science field.
-                Data source: https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
+    🌍 Climate & Resource Security
+         -Case 5: Analysis on hurricane occurances and relation to rising global temperature. 
+         -Case 7: Analysis on U.S. mineral supplies. Is the U.S. relying too much on foreign countries for rare minerals?
+                  Tools/Graphs: Chlopethmap, Scatter plots, sunpie chart, wordclouds, and bar plots
                 
-    -Story 5: Analysis on hurricane occurances and relation to rising global temperature. 
-                Data sources: 1) https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series/atlanticMdr/land_ocean/tavg/60/0/1999-2024
-                              2) https://berkeleyearth.org/temperature-region/north-america
-                              
-    -Story 6: Analysis on the issue of food insecurity in the U.S. Who are the vulnerable groups? 
-                Data source: [Feeding](https://www.feedingamerica.org/)
-                
-    -Story 7: Analysis on U.S. mineral supplies. Is the U.S. relying too much on foreign countries for rare minerals?
+    
                 Data source: https://www.usgs.gov/news/science-snippet/interior-department-releases-final-2025-list-critical-minerals
