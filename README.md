@@ -2,13 +2,13 @@ A curated collection of high-impact analyses focused on socio-economic trends, p
 
 📌 Featured Case Studies
 
-🧬 Healthcare & Public Safety
+**🧬 Healthcare & Public Safety**
 
-    Firearm Mortality vs. Legislative Rigor: Analyzed the relationship between state-level gun laws and mortality rates using CDC statistics.
+Firearm Mortality vs. Legislative Rigor: Analyzed the relationship between state-level gun laws and mortality rates using CDC statistics.
 
-    Key Insights: States with stricter gun laws showed 63.7% lower firearm related mortality rate than States with lax gun laws.
+Key Insights: States with stricter gun laws showed 63.7% lower firearm related mortality rate than States with lax gun laws.
     
-    Tools/Visuals: Heatmaps, bar plots, and Choropleth maps.
+Tools/Visuals: Heatmaps, bar plots, and Choropleth maps.
     
   --------------------------------------------------------------
     
