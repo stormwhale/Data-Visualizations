@@ -1,26 +1,40 @@
-📊 Data Storytelling & Visual Analytics Portfolio
-A collection of high-impact analyses focused on socio-economic trends, public policy, and global health data.
+A curated collection of high-impact analyses focused on socio-economic trends, public policy, and global health data.
 
 📌 Featured Case Studies
 
-    Political Science & Funding:
-        -Case 1: Analyzed whether federal funding to different States is based on political party affiliation.
-                 Tools/Graphs: Matplotlib / Seaborn for correlation plot and bar plots.
-        
-    💰 Economic & Labor Market Intelligence
-         -Case 2: Analysis on whether the Federal Government is able to maintain a balance on inflation and unemployment rate through interest rate control.
-         -Case 4: Analyzed potential factors that affect the salary for the Data Science field.
-                  Tools/Graphs: Matplotlib / Seaborn /Plotly.express for box plot and line plots
+🧬 Healthcare & Public Safety
+Firearm Mortality vs. Legislative Rigor: Analyzed the relationship between state-level gun laws and mortality rates using CDC statistics.
 
-    🧬 Healthcare & Public Safety
-         -Case 3: Analyzed whether firearm mortality can be controlled by stricter gun laws by examining the data in all States. Data soruce from CDC.
-         -Case 6: Analysis on the issue of food insecurity in the U.S. Who are the vulnerable groups? 
-                  Tools/Graphs: Heatmap, bar plots, and chlopeth maps.
-                
-    🌍 Climate & Resource Security
-         -Case 5: Analysis on hurricane occurances and relation to rising global temperature. 
-         -Case 7: Analysis on U.S. mineral supplies. Is the U.S. relying too much on foreign countries for rare minerals?
-                  Tools/Graphs: Chlopethmap, Scatter plots, sunpie chart, wordclouds, and bar plots
-                
-    
-                Data source: https://www.usgs.gov/news/science-snippet/interior-department-releases-final-2025-list-critical-minerals
+Tools/Visuals: Heatmaps, bar plots, and Choropleth maps.
+--------------------------------------------------------------
+Food Insecurity in the U.S.: Identified vulnerable demographics and geographic clusters facing food instability.
+
+Tools/Visuals: Geographic distribution mapping and categorical bar analysis.
+--------------------------------------------------------------
+💰 Economic & Labor Market Intelligence
+
+Monetary Policy & Market Balance: Evaluated the Federal Government's ability to balance inflation and unemployment through interest rate controls .
+
+Data Science Salary Determinants: Multi-factor analysis of salary trends and growth drivers in the global tech market.
+
+Tools/Visuals: Matplotlib, Seaborn, and Plotly (box and line plots).
+--------------------------------------------------------------
+🌍 Climate & Resource Security
+
+Hurricane Patterns & Global Warming: Statistical analysis of hurricane frequency in relation to rising global temperatures.
+
+U.S. Mineral Supply Chain Risk: Evaluated national reliance on foreign imports for critical rare earth minerals.
+
+Tools/Visuals: Choropleth maps, scatter plots, and sunburst charts.
+--------------------------------------------------------------
+🗳️ Political Science & Funding
+Federal Funding & Political Alignment: Investigated whether federal resource allocation correlates with state-level political party affiliation.
+
+Tools/Visuals: Correlation matrices and comparative bar plots.
+--------------------------------------------------------------
+
+Author: 
+
+StormWhale 
+
+These studies were developed as part of the M.S. in Data Science curriculum at CUNY SPS.
