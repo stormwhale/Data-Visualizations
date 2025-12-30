@@ -2,7 +2,7 @@ A curated collection of high-impact analyses focused on socio-economic trends, p
 
 📌 Featured Case Studies
 
-**🧬 Healthcare & Public Safety**
+🧬 Healthcare & Public Safety
 
 Firearm Mortality vs. Legislative Rigor: Analyzed the relationship between state-level gun laws and mortality rates using CDC statistics.
 
