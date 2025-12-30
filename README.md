@@ -4,17 +4,19 @@ A curated collection of high-impact analyses focused on socio-economic trends, p
 
 🧬 Healthcare & Public Safety
 
-Firearm Mortality vs. Legislative Rigor: Analyzed the relationship between state-level gun laws and mortality rates using CDC statistics.
+-Firearm Mortality vs. Legislative Rigor: Analyzed the relationship between state-level gun laws and mortality rates using CDC statistics.
 
-Key Insights: States with stricter gun laws showed 63.7% lower firearm related mortality rate than States with lax gun laws.
+-Key Insights: States with stricter gun laws showed 63.7% lower firearm related mortality rate than States with lax gun laws.
     
-Tools/Visuals: Heatmaps, bar plots, and Choropleth maps.
+-Tools/Visuals: Heatmaps, bar plots, and Choropleth maps.
     
   --------------------------------------------------------------
     
 🥢Food Insecurity in the U.S.: Identified vulnerable demographics and geographic clusters facing food instability.
+
+-Key Insights: The children population in the U.S. is disproportionally experiencing food insecurity than other age groups. TX, FL, NY, and CA have the highest number of children suffering from food insecurity.
     
-    Tools/Visuals: Geographic distribution mapping and categorical bar analysis.
+-Tools/Visuals: Geographic distribution mapping and categorical bar analysis.
     
   --------------------------------------------------------------
     
@@ -23,6 +25,8 @@ Tools/Visuals: Heatmaps, bar plots, and Choropleth maps.
     Monetary Policy & Market Balance: Evaluated the Federal Government's ability to balance inflation and unemployment through interest rate controls .
     
     Data Science Salary Determinants: Multi-factor analysis of salary trends and growth drivers in the global tech market.
+
+    -Key Insights:
     
     Tools/Visuals: Matplotlib, Seaborn, and Plotly (box and line plots).
     
