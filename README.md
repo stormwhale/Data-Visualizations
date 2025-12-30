@@ -6,7 +6,7 @@ A curated collection of high-impact analyses focused on socio-economic trends, p
 
 -Firearm Mortality vs. Legislative Rigor: Analyzed the relationship between state-level gun laws and mortality rates using CDC statistics.
 
--Key Insights: States with stricter gun laws showed 63.7% lower firearm related mortality rate than States with lax gun laws.
+    -Key Insights: States with stricter gun laws showed 63.7% lower firearm related mortality rate than States with lax gun laws.
     
 -Tools/Visuals: Heatmaps, bar plots, and Choropleth maps.
     
@@ -14,7 +14,7 @@ A curated collection of high-impact analyses focused on socio-economic trends, p
     
 🥢Food Insecurity in the U.S.: Identified vulnerable demographics and geographic clusters facing food instability.
 
--Key Insights: The children population in the U.S. is disproportionally experiencing food insecurity than other age groups. TX, FL, NY, and CA have the highest number of children suffering from food insecurity.
+    -Key Insights: The children population in the U.S. is disproportionally experiencing food insecurity than other age groups. TX, FL, NY, and CA have the highest number of children suffering from food insecurity.
     
 -Tools/Visuals: Geographic distribution mapping and categorical bar analysis.
     
